@@ -9,7 +9,7 @@
 ## 安装方法
 1. git clone或打包下载代码
 2. 将`russian-roulette`文件夹放到`.\HoshinoBot\hoshino\modules`文件夹中
-3. 在`.\HoshinoBot\hoshino\config`文件夹中找到`_bot_.py`并在其中的`MODULES ON`部分中增加`'ruassian-roulette'`
+3. 在`.\HoshinoBot\hoshino\config`文件夹中找到`_bot_.py`并在其中的`MODULES ON`部分中增加`'russian-roulette'`
 4. 重启bot
 ## 游戏功能
 - [x] 自定义子弹数目及禁言时间
